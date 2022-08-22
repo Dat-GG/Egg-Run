@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "320008094591",
+    "firebase_url": "https://work-run-3d-default-rtdb.firebaseio.com",
+    "project_id": "work-run-3d",
+    "storage_bucket": "work-run-3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320008094591:android:452f867ebc6aa81337904a",
+        "android_client_info": {
+          "package_name": "com.funzilla.egg.run"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320008094591-v62umuf8ka315fqoiab0dqm0sdkesti3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVToaq0Dj1c_TdRtOloicPV0Am9b3lY9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320008094591-v62umuf8ka315fqoiab0dqm0sdkesti3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
